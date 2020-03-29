@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowitKodTest", "KnowitKodTest\KnowitKodTest.csproj", "{1C61F0E8-A6AD-4D08-B872-7DD0E39725AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C61F0E8-A6AD-4D08-B872-7DD0E39725AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C61F0E8-A6AD-4D08-B872-7DD0E39725AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C61F0E8-A6AD-4D08-B872-7DD0E39725AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C61F0E8-A6AD-4D08-B872-7DD0E39725AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537852E5-F781-468C-A0CF-D2310BA28A24}
+	EndGlobalSection
+EndGlobal
