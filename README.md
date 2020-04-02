@@ -22,7 +22,7 @@ Har du tid över ser vi gärna att du börjar på extrauppgifterna i den givna o
 #### Tips och Hjälpmedel
 * CAGR formel för uträkning av årlig utveckling: https://en.wikipedia.org/wiki/Compound_annual_growth_rate
 * Följ SCBs självdokumenterade API istället för att läsa PDF:en på sidan. Startpunkt: http://api.scb.se/OV0104/v1/doris/sv/ssd/ 
-
+* För hjälp att genera api anrop kan följande sida användas http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0107/MI0107InTransp/
 
 ### Extrauppgifter
 1. Möjlighet att fråga efter både inrikes och utrikes transporter
